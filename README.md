@@ -16,21 +16,24 @@
 
 ---
 
-## 👨‍💻 `whoami`
+<div align="center">
 
-```bash
-$ cat maxime.json
-{
-  "role":      "Full Stack Developer (AI-augmented)",
-  "location":  "Clermont-Ferrand, France 🇫🇷",
-  "experience": "2 ans d'alternance @ Les Biens en Commun (startup casiers connectés)",
-  "education": ["Master Epitech", "RNCP niveau 6 — La Capsule"],
-  "languages": ["Français (natif)", "English (B1 → B2)"],
-  "status":    "🟢 open to work — CDI, disponible immédiatement"
-}
-```
+<h3><code>max@github ~ $ ./contributions.sh</code></h3>
+<img src="./contrib-heatmap.svg" width="860" alt="Contribution heatmap" />
 
-Je conçois et livre des applications web de bout en bout, et je m'appuie sur **Claude Code** pour cadrer, concevoir et coder plus vite — en **relisant et validant** chaque changement avant de le fusionner. De l'IA comme levier, pas comme pilote automatique.
+<br><br>
+
+<h3><code>max@github ~ $ whoami</code></h3>
+<table>
+  <tr>
+    <td valign="top"><img src="./ascii-banner.svg" width="370" alt="Maxime Guillemin" /></td>
+    <td valign="top"><img src="./info-card.svg" width="490" alt="Info card" /></td>
+  </tr>
+</table>
+
+</div>
+
+Je conçois et livre des applications web de bout en bout, et je m'appuie sur **Claude Code** pour cadrer, concevoir et coder plus vite, en **relisant et validant** chaque changement avant de le fusionner. De l'IA comme levier, pas comme pilote automatique.
 
 ---
 
@@ -119,18 +122,13 @@ Je conçois et livre des applications web de bout en bout, et je m'appuie sur **
 
 ## 📊 Stats GitHub
 
-<div align="center">
 
-<img src="https://streak-stats.demolab.com?user=maxguillemin-dev&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+<div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=maxguillemin-dev&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true" alt="GitHub Stats" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxguillemin-dev&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" alt="Top Languages" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=maxguillemin-dev&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-
-### 📈 Contributions
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=maxguillemin-dev&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution+Graph" alt="Contribution Graph" />
 
 </div>
 
