@@ -1,0 +1,13 @@
+"""Shared palette (Tokyo Night) for every generated SVG."""
+BG = "#1a1b27"
+PANEL = "#16161e"
+BORDER = "#2f334d"
+FG = "#c0caf5"
+MUTED = "#565f89"
+BLUE = "#7aa2f7"
+CYAN = "#7dcfff"
+GREEN = "#9ece6a"
+ORANGE = "#ff9e64"
+PURPLE = "#bb9af7"
+HEAT = ["#161b22", "#0e4429", "#006d32", "#26a641", "#39d353", "#69f0a0"]
+FONT = "'Fira Code','JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace"

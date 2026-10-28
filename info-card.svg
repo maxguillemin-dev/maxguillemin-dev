@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="440" viewBox="0 0 490 440" font-family="'Fira Code','JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13">
+<style>@keyframes l{from{opacity:0;transform:translateX(-8px)}to{opacity:1;transform:none}}.r{opacity:0;animation:l .4s ease-out forwards}</style>
+<rect width="490" height="440" rx="10" fill="#1a1b27" stroke="#2f334d"/>
+<rect width="490" height="32" rx="10" fill="#16161e"/><rect y="22" width="490" height="10" fill="#16161e"/>
+<circle cx="20" cy="16" r="5" fill="#ff5f56"/><circle cx="38" cy="16" r="5" fill="#ffbd2e"/><circle cx="56" cy="16" r="5" fill="#27c93f"/>
+<text x="245" y="20" fill="#565f89" font-size="11" text-anchor="middle">maxime@github: ~</text>
+<text x="20" y="58" fill="#9ece6a">maxime</text><text x="68" y="58" fill="#565f89">@</text><text x="78" y="58" fill="#7aa2f7">maxguillemin-dev</text>
+<text x="20" y="74" fill="#2f334d">----------------------------------------</text>
+<g class="r" style="animation-delay:0.25s"><text x="20" y="98" fill="#ff9e64" font-weight="bold">Role</text><text x="110" y="98" fill="#9ece6a">Full Stack Developer, AI-augmented</text></g>
+<g class="r" style="animation-delay:0.37s"><text x="20" y="120" fill="#ff9e64" font-weight="bold">Location</text><text x="110" y="120" fill="#c0caf5">Clermont-Ferrand, France</text></g>
+<g class="r" style="animation-delay:0.49s"><text x="20" y="142" fill="#ff9e64" font-weight="bold">Status</text><text x="110" y="142" fill="#ff9e64">Open to work: CDI, immediately</text></g>
+<g class="r" style="animation-delay:0.61s"><text x="20" y="175" fill="#ff9e64" font-weight="bold">Now</text><text x="110" y="175" fill="#7dcfff">MCP server in TypeScript</text></g>
+<g class="r" style="animation-delay:0.73s"><text x="20" y="197" fill="#ff9e64" font-weight="bold">Prev</text><text x="110" y="197" fill="#c0caf5">2y alternance @ Les Biens en Commun</text></g>
+<g class="r" style="animation-delay:0.85s"><text x="20" y="219" fill="#ff9e64" font-weight="bold">Edu</text><text x="110" y="219" fill="#c0caf5">Master Epitech + RNCP niveau 6</text></g>
+<g class="r" style="animation-delay:0.97s"><text x="20" y="252" fill="#ff9e64" font-weight="bold">Frontend</text><text x="110" y="252" fill="#7aa2f7">TypeScript React Next.js Tailwind Zustand</text></g>
+<g class="r" style="animation-delay:1.09s"><text x="20" y="274" fill="#ff9e64" font-weight="bold">Backend</text><text x="110" y="274" fill="#7aa2f7">NestJS Node.js PostgreSQL pgvector</text></g>
+<g class="r" style="animation-delay:1.21s"><text x="20" y="296" fill="#ff9e64" font-weight="bold">DevOps</text><text x="110" y="296" fill="#7aa2f7">Docker AWS Vercel Git</text></g>
+<g class="r" style="animation-delay:1.33s"><text x="20" y="318" fill="#ff9e64" font-weight="bold">AI</text><text x="110" y="318" fill="#bb9af7">Claude API, Claude Code, OpenAI API</text></g>
+<g class="r" style="animation-delay:1.45s"><text x="20" y="351" fill="#ff9e64" font-weight="bold">Langs</text><text x="110" y="351" fill="#c0caf5">Francais (natif), English (B1 -&gt; B2)</text></g>
+<g class="r" style="animation-delay:1.57s"><text x="20" y="373" fill="#ff9e64" font-weight="bold">Hobbies</text><text x="110" y="373" fill="#c0caf5">Japon, jeux video, TCG, dev perso</text></g>
+<rect x="20" y="406" width="22" height="14" fill="#f7768e"/>
+<rect x="42" y="406" width="22" height="14" fill="#ff9e64"/>
+<rect x="64" y="406" width="22" height="14" fill="#e0af68"/>
+<rect x="86" y="406" width="22" height="14" fill="#9ece6a"/>
+<rect x="108" y="406" width="22" height="14" fill="#7dcfff"/>
+<rect x="130" y="406" width="22" height="14" fill="#7aa2f7"/>
+<rect x="152" y="406" width="22" height="14" fill="#bb9af7"/>
+<rect x="174" y="406" width="22" height="14" fill="#c0caf5"/>
+</svg>

@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="476" height="328" viewBox="0 0 476 328" font-family="'Fira Code','JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace">
+<rect width="476" height="328" rx="10" fill="#1a1b27" stroke="#2f334d"/>
+<text x="20" y="28" font-size="12" fill="#565f89">$ <tspan fill="#9ece6a">figlet</tspan> -f standard "Maxime Guillemin"</text>
+<defs>
+<clipPath id="c0"><rect x="20" y="44" height="17" width="0"><animate attributeName="width" from="0" to="476" begin="0.60s" dur="0.5s" fill="freeze"/></rect></clipPath>
+<clipPath id="c1"><rect x="20" y="61" height="17" width="0"><animate attributeName="width" from="0" to="476" begin="0.72s" dur="0.5s" fill="freeze"/></rect></clipPath>
+<clipPath id="c2"><rect x="20" y="78" height="17" width="0"><animate attributeName="width" from="0" to="476" begin="0.84s" dur="0.5s" fill="freeze"/></rect></clipPath>
+<clipPath id="c3"><rect x="20" y="95" height="17" width="0"><animate attributeName="width" from="0" to="476" begin="0.96s" dur="0.5s" fill="freeze"/></rect></clipPath>
+<clipPath id="c4"><rect x="20" y="112" height="17" width="0"><animate attributeName="width" from="0" to="476" begin="1.08s" dur="0.5s" fill="freeze"/></rect></clipPath>
+<clipPath id="c5"><rect x="20" y="129" height="17" width="0"><animate attributeName="width" from="0" to="476" begin="1.20s" dur="0.5s" fill="freeze"/></rect></clipPath>
+<clipPath id="c6"><rect x="20" y="146" height="17" width="0"><animate attributeName="width" from="0" to="476" begin="1.32s" dur="0.5s" fill="freeze"/></rect></clipPath>
+<clipPath id="c7"><rect x="20" y="163" height="17" width="0"><animate attributeName="width" from="0" to="476" begin="1.44s" dur="0.5s" fill="freeze"/></rect></clipPath>
+<clipPath id="c8"><rect x="20" y="180" height="17" width="0"><animate attributeName="width" from="0" to="476" begin="1.56s" dur="0.5s" fill="freeze"/></rect></clipPath>
+<clipPath id="c9"><rect x="20" y="197" height="17" width="0"><animate attributeName="width" from="0" to="476" begin="1.68s" dur="0.5s" fill="freeze"/></rect></clipPath>
+<clipPath id="c10"><rect x="20" y="214" height="17" width="0"><animate attributeName="width" from="0" to="476" begin="1.80s" dur="0.5s" fill="freeze"/></rect></clipPath>
+<clipPath id="c11"><rect x="20" y="231" height="17" width="0"><animate attributeName="width" from="0" to="476" begin="1.92s" dur="0.5s" fill="freeze"/></rect></clipPath>
+<clipPath id="c12"><rect x="20" y="248" height="17" width="0"><animate attributeName="width" from="0" to="476" begin="2.04s" dur="0.5s" fill="freeze"/></rect></clipPath>
+<clipPath id="c13"><rect x="20" y="265" height="17" width="0"><animate attributeName="width" from="0" to="476" begin="2.16s" dur="0.5s" fill="freeze"/></rect></clipPath>
+</defs>
+<text xml:space="preserve" x="20" y="57" font-size="14" fill="#7aa2f7" style="white-space:pre" clip-path="url(#c0)"> __  __    _    __  _____ __  __ _____</text>
+<text xml:space="preserve" x="20" y="74" font-size="14" fill="#7aa2f7" style="white-space:pre" clip-path="url(#c1)">|  \/  |  / \   \ \/ /_ _|  \/  | ____|</text>
+<text xml:space="preserve" x="20" y="91" font-size="14" fill="#7aa2f7" style="white-space:pre" clip-path="url(#c2)">| |\/| | / _ \   \  / | || |\/| |  _|</text>
+<text xml:space="preserve" x="20" y="108" font-size="14" fill="#7aa2f7" style="white-space:pre" clip-path="url(#c3)">| |  | |/ ___ \  /  \ | || |  | | |___</text>
+<text xml:space="preserve" x="20" y="125" font-size="14" fill="#7aa2f7" style="white-space:pre" clip-path="url(#c4)">|_|  |_/_/   \_\/_/\_\___|_|  |_|_____|</text>
+<text xml:space="preserve" x="20" y="142" font-size="14" fill="#7aa2f7" style="white-space:pre" clip-path="url(#c5)"></text>
+<text xml:space="preserve" x="20" y="159" font-size="14" fill="#7aa2f7" style="white-space:pre" clip-path="url(#c6)"></text>
+<text xml:space="preserve" x="20" y="176" font-size="14" fill="#7aa2f7" style="white-space:pre" clip-path="url(#c7)">  ____ _   _ ___ _     _     _____ __  __ ___ _   _</text>
+<text xml:space="preserve" x="20" y="193" font-size="14" fill="#7aa2f7" style="white-space:pre" clip-path="url(#c8)"> / ___| | | |_ _| |   | |   | ____|  \/  |_ _| \ | |</text>
+<text xml:space="preserve" x="20" y="210" font-size="14" fill="#7aa2f7" style="white-space:pre" clip-path="url(#c9)">| |  _| | | || || |   | |   |  _| | |\/| || ||  \| |</text>
+<text xml:space="preserve" x="20" y="227" font-size="14" fill="#7aa2f7" style="white-space:pre" clip-path="url(#c10)">| |_| | |_| || || |___| |___| |___| |  | || || |\  |</text>
+<text xml:space="preserve" x="20" y="244" font-size="14" fill="#7aa2f7" style="white-space:pre" clip-path="url(#c11)"> \____|\___/|___|_____|_____|_____|_|  |_|___|_| \_|</text>
+<text xml:space="preserve" x="20" y="261" font-size="14" fill="#7aa2f7" style="white-space:pre" clip-path="url(#c12)"></text>
+<text xml:space="preserve" x="20" y="278" font-size="14" fill="#7aa2f7" style="white-space:pre" clip-path="url(#c13)"></text>
+<text x="20" y="306" font-size="13" fill="#c0caf5" opacity="0">full stack <tspan fill="#565f89">x</tspan> <tspan fill="#bb9af7">AI-augmented</tspan> <tspan fill="#9ece6a">_</tspan><animate attributeName="opacity" from="0" to="1" begin="2.28s" dur="0.4s" fill="freeze"/></text>
+</svg>
